@@ -1,2 +1,2 @@
 consul.test=consul-property
-batch.rate=3000
+batch.rate=1000
